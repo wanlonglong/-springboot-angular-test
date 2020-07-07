@@ -26,5 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-##Screenshots
-![Image text](https://github.com/wanlonglong/Bookmanagement/blob/master/images/runvue.png)
+## Screenshots
+![Image text](https://github.com/wanlonglong/angular-registration-test/blob/master/src/assets/reg.png)
+![Image text](https://github.com/wanlonglong/angular-registration-test/blob/master/src/assets/searchj.png)
+
